@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td><a href = "https://github.com/gdhhkkl">이소빈</a></td>
-    <td><a href = "https://github.com/iwone_zz">김지원</a></td>
+    <td><a href = "https://github.com/iweon_zz">김지원</a></td>
     <td><a href = "https://github.com/Kimbogyung">김보경</a></td>
   </tr>
 </table>
